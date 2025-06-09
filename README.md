@@ -1,5 +1,5 @@
 
-# Topaz 💎
+# Topaz
 
 > The future of meme coin, built on Solana's high-performance blockchain.
 
